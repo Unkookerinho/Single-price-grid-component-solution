@@ -189,7 +189,7 @@ main {
         margin-bottom: 1.25rem;
     }
 
-    .about p {
+    .about ul {
         font-weight: var(--fw-thin);
         font-size: 0.9rem;
         line-height: 1.35rem;
@@ -231,6 +231,12 @@ main {
     .about {
         border-bottom-left-radius: 0px;
         padding: 2.3rem;
+    }
+}
+
+@media(max-height:770px) {
+    body {   
+        padding: 1rem;
     }
 }
 
