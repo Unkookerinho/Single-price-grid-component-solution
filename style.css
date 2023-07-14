@@ -96,7 +96,7 @@ main {
         margin-bottom: 1.5rem;
     }
 
-    .description h3 {
+    .description h2 {
         color: var(--clr-bright-yellow);
         font-weight: var(--fw-bold);
         font-size: 0.95rem;
@@ -212,7 +212,7 @@ main {
     .description h1 {
         font-size: 1.5rem;
     }
-    .description h3 {
+    .description h2 {
         font-size: 1.1rem;
     }
     .description p {
