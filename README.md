@@ -8,5 +8,5 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: [https://www.frontendmentor.io/solutions/single-price-grid-component-solution-ai_NVHizej](https://www.frontendmentor.io/solutions/single-price-grid-component-solution-ai_NVHizej)
+- Live Site URL: [https://unkookerinho.github.io/Single-price-grid-component-solution/](https://unkookerinho.github.io/Single-price-grid-component-solution/)
